@@ -6,7 +6,7 @@
 		<!-- шрифт -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<!-- Поля подключенные через ACF -->
+		<!-- Поля для SEO, подключенные через ACF (создать и раскомментировать, если будешь делать SEO) -->
 	<meta name="title" content="<?php #echo get_field('title');?>" />
 	<meta name="description" content="<?php #echo get_field('description');?>" />
 	<meta name="keywords" content="<?php #echo get_field('keywords');?>" />
