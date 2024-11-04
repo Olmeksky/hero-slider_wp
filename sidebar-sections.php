@@ -1,3 +1,0 @@
-<?php 
-kb_sections();
-?>
